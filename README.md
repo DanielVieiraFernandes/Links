@@ -1,6 +1,6 @@
 # Links
 
-**Links** é um aplicativo para salvar e organizar links úteis diretamente no dispositivo do usuário. Com ele, você pode armazenar, acessar rapidamente e gerenciar links importantes de maneira simples e prática.
+**Links** é um aplicativo criado para salvar e organizar links úteis diretamente no dispositivo do usuário. Com ele, você pode armazenar, acessar rapidamente e gerenciar links importantes de maneira simples e prática.
 
 ## Telas
 <img src="src/assets/Home.jpeg" alt="Tela Inicial" width="300" />
