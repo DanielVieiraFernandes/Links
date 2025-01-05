@@ -2,6 +2,16 @@
 
 **Links** é um aplicativo para salvar e organizar links úteis diretamente no dispositivo do usuário. Com ele, você pode armazenar, acessar rapidamente e gerenciar links importantes de maneira simples e prática.
 
+## Telas
+<img src="src/assets/Home.jpeg" alt="Tela Inicial" width="300" />
+---
+<img src="src/assets/saveLink.jpeg" alt="Salvar Link" width="300" />
+---
+<img src="src/assets/imageLinkSave.jpeg" alt="Link Salvo" width="300" />
+---
+<img src="src/assets/opeAndDel.jpeg" alt="Opções" width="300" />
+---
+
 ## Funcionalidades
 
 - Salvar links úteis localmente no dispositivo.
